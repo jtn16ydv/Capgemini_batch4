@@ -1,0 +1,21 @@
+[main] ERROR InsertDemo  - FATAL: database "capgbatch41" does not exist
+[main] INFO  UpdateDemo  - class org.postgresql.Driver
+[main] INFO  UpdateDemo  - org.postgresql.jdbc.PgConnection@313ac989
+[main] INFO  UpdateDemo  - org.postgresql.jdbc.PgStatement@4218d6a3
+[main] INFO  UpdateDemo  - Success: Record Updated
+[main] INFO  DeleteDemo  - class org.postgresql.Driver
+[main] INFO  DeleteDemo  - org.postgresql.jdbc.PgConnection@5c6648b0
+[main] INFO  DeleteDemo  - org.postgresql.jdbc.PgStatement@34123d65
+[main] INFO  DeleteDemo  - Success: Records Deleted
+[main] INFO  InsertDemo  - class org.postgresql.Driver
+[main] INFO  InsertDemo  - org.postgresql.jdbc.PgConnection@1aafa419
+[main] INFO  InsertDemo  - org.postgresql.jdbc.PgStatement@443118b0
+[main] INFO  InsertDemo  - Success: Record Inserted
+[main] INFO  ReadDemo  - class org.postgresql.Driver
+[main] INFO  ReadDemo  - org.postgresql.jdbc.PgConnection@7cc0cdad
+[main] INFO  InsertDemo  - class org.postgresql.Driver
+[main] INFO  InsertDemo  - org.postgresql.jdbc.PgConnection@3023df74
+[main] INFO  InsertDemo  - org.postgresql.jdbc.PgStatement@5656be13
+[main] INFO  InsertDemo  - Success: Record Inserted
+[main] INFO  ReadDemo  - class org.postgresql.Driver
+[main] INFO  ReadDemo  - org.postgresql.jdbc.PgConnection@5af3afd9
