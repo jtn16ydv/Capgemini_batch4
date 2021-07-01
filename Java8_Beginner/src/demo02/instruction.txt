@@ -1,0 +1,6 @@
+-Remove MorningGreeting and EveningGreeting implementation classes.
+-Your output must be same this time as well.
+-You must be having the below calls.
+  morningGreeting.greet();
+  eveningGreeting.greet();
+-Note :  No need to use lambda here

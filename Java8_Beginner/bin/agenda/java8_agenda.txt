@@ -1,0 +1,7 @@
+We will be learning below concepts here in this java 8 session.
+1. Understanding the need of lambda expression
+2. How to use the lambda efficiently
+- How to create thread using lanbdas
+3. What is Functional Interface
+4. What is default method and where to use it
+- Practical hands on exercises on stream api

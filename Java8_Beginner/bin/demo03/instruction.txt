@@ -1,0 +1,9 @@
+- How to convert your annonymous class as lambda
+- What is lambda
+ -  This is an alternative for Annonyous class
+ -  This is used for behaviour execution
+ What is the advantage of Lambda
+ -  This will enable the functional programming
+ -  Readable and concise code
+ -  Easier-to-use APIs and libraries
+ -  Enables support for parallel processing 

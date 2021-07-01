@@ -1,0 +1,7 @@
+- Need to have a Greeting Interface
+- Create greet method in Greeting Interface
+- Will be having two implementations of Greeting and override greet method and print appropriate greeting message
+  - MorningGreeting
+  - EveningGreeting
+ - Create WithoutJava8.java main class and you must have Objects of MorningGreeting and EveningGreeting, 
+   that must be pointed out by reference of Greeting and have greet method called.  
