@@ -90,6 +90,7 @@ public class Solution001 {
 		System.out.println(filteredGirls_app02);
 		
 		System.out.println("------Using Declarative Way : Approach 3------");
+		//--> stream list>>test condition >> getName >> convert in upper case >> collection list
 		List<String> filteredGirls_app03 = people.stream()
 				.filter(
 				 person->person.getAge()>6 && person.getGender().equals(Gender.FEMALE))			

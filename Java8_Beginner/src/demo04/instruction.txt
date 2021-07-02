@@ -9,10 +9,10 @@ Activity# :
 
 Hands on :  
 - Get the name of all females in upper case who are in age more than 6
--Imperative Way
--Let's do it with stream - Using anonymous  way, known way or Imperative way, saying how to do.
--Let's do it with stream - Using Declarative way- What to do, rather than how to do
--Let's Do it with Stream - More Advanced way - Using Declarative way- What to do, rather than how to do
+-Imperative Way of working - where we were focused on what and how both
+-Let's do it with stream - Using anonymous  way, known way or Imperative way, saying how to do. - Predicate [test], Function [apply]
+-Let's do it with stream - Using Declarative way- What to do, rather than how to do using->
+-Let's Do it with Stream - More Advanced way - Using Declarative way- What to do, rather than how to do ::
 
 
 -What is it?
@@ -35,6 +35,7 @@ Hands on :
 	- [filter] - print all males
 		- Create Practice02 by copy pasting practice01 and perform below operation. 
 		- print all males : Using Stream By Imperative way 
+		- forEach : Consumer (accept) - accept method will not return anything, and it will accept the Object
 		
 	- [map] - print all males, but name in upper case
 		- In Practice02 write stream code to print the person name in uppercase
@@ -65,7 +66,15 @@ Hands on :
 	- depends on operation
 - raise, operate, land
 			
-		
+Functional Interfaces : 
+1. Predicate - test
+2. Function - apply
+3. Consumer - accept
+4. BinaryOperator -  apply (a,b)	
+5. Comparator : int compare(a,b)
+6. FileFilter : accept(File pathname)	
+
+Optional - isPresent
 	
 Ref : 
 
